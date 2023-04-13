@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FSD_NET_WebApplication.props" />
+</Project>
